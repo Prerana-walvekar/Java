@@ -1,0 +1,24 @@
+https://rb.gy/8nxwxx
+
+Customer Churn: 
+https://github.com/yash2189/Customer-Churn-Prediction-ML/blob/master/Customer-Churn-Prediction-ML.ipynb
+
+Fraud detection:
+https://www.kaggle.com/code/saifullah57/credit-card-fraud-detection-using-ml-ipynb
+
+Loan default prediction:
+https://github.com/TasnimNiger/Capstone-Project--Loan-Default-Prediction/blob/main/Final_Capstone_Project_Loan_Default_Prediction_Full_Code%20(1).ipynb
+
+https://github.com/pravatsahu01/Python-Capstone-Project-Loan-Default-Analyis-/blob/main/Capstone%20Project_Finance.ipynb
+
+Employee Attrition: 
+https://www.kaggle.com/code/sh00t1/employee-attrition-prediction
+
+Hospital readmission :
+https://www.kaggle.com/code/aamirrazamari/hospital-readmission-predication
+
+Energy usage prediction:
+https://www.kaggle.com/code/shipa129/energy-consumption-prediction
+
+Flight delays prediction:
+https://www.kaggle.com/code/neerajk4/flight-delay-decisiontrees
